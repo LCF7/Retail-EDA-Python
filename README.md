@@ -44,12 +44,16 @@ Key statistical measures and visualizations were used to understand the distribu
 ## Key Findings
 
 ### Conversion Rate Distribution
+
+![Conversion Rate](https://drive.google.com/uc?export=view&id=1euVV2qICNw1GAUmnMy4bvSiOjLXwIui6)  
 - Normal distribution observed.
 - Most conversion rates fall between 0.1 and 0.3.
 - No outliers detected.
 - Alberta (AB) has the highest average conversion rate (0.24497).
 
 ### Adoption Rate Distribution
+
+![Adoption Rate ](https://drive.google.com/uc?export=view&id=1Oqa93Ka65zTba0zFzbjihe1_cV-s4-ye) 
 - Right-skewed distribution, indicating most stores have lower adoption rates with a few exceptions.
 - Outliers are present.
 - Alberta (AB) leads with an average adoption rate of 0.31796.
@@ -60,6 +64,8 @@ Key statistical measures and visualizations were used to understand the distribu
 - No strong correlation between adoption and conversion rates.
 
 ### Correlation Analysis
+
+![Correlation Analysis](https://drive.google.com/uc?export=view&id=1asxtsRu0b2P0iBLd1JqaBSQ8sBYISIYB) 
 - Positive but weak correlation between adoption and conversion rates (R² = 0.105).
 - Linear regression equation: y = 0.7963x + 0.1019 (not recommended for predictions).
 
@@ -80,6 +86,8 @@ Key statistical measures and visualizations were used to understand the distribu
 - Review lowest-performing stores for issues and areas for improvement.
 
 ### Correlation and Model Reliability
+
+![Correlation and Model Reliability](https://drive.google.com/uc?export=view&id=1ZNMm4IRE0gE2jfbjEUCvPkerb6e4QIsN) 
 - Weak relationship between conversion and adoption rates suggests caution in using the model for predictions.
 
 ## Repository Contents
