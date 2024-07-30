@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This repository contains an Exploratory Data Analysis (EDA) performed on a dataset provided by a retail company, aimed at uncovering insights into the performance and adoption rates for membership in various stores within a retail chain. This analysis describes historical data to help define acceptable KPI metrics for conversion and adoption rates across different stores.
+This repository contains an Exploratory Data Analysis (EDA) performed on a dataset provided by a retail company, aimed at uncovering insights into the performance and adoption rates for membership in various stores within a retail chain. This analysis describes historical data to help define acceptable KPI metrics for conversion and adoption rates across different stores. Dummie data was used for the project.
 
 ## Objective
 
